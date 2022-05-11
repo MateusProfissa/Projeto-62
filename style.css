@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+.container {
+    background-color: black;
+}
+#meuCarrossel {
+    background: yellow;
+}
+#meuCarrossel img {
+    height: 300px;
+    margin-top: 35px;
+}
+#app h1 {
+    color: white;
+}
+#criacoes h2 {
+    color: white;
+}
+#criacoes h5 {
+    color: white;
+}
